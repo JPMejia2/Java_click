@@ -1,0 +1,42 @@
+.saludo{
+    color:red;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+.nuevaClase{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 100px;
+    color: greenyellow;
+    font-family: monospace;
+    transition: 0.5s;
+}
+
+.estilo_1{
+    width: 300px;
+    height: 400px;
+    background-color: cadetblue;
+    margin: auto;
+}
+
+.estilo_2{
+    width: 400px;
+    height: 400;
+    background-color: rebeccapurple;
+    margin: auto;
+    transition: 0.5s;
+}
+
+.ds_btn{
+    width: 100px;
+    height: 30px;
+    background-color: crimson;
+    color: #fff;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+}
