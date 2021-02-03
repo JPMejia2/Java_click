@@ -22,8 +22,8 @@
 }
 
 .estilo_2{
-    width: 400px;
-    height: 400;
+    width: 275px;
+    height: 275;
     background-color: rebeccapurple;
     margin: auto;
     transition: 0.5s;
@@ -33,6 +33,18 @@
     width: 100px;
     height: 30px;
     background-color: crimson;
+    color: #fff;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+}
+
+.ds_btn2{
+    background-color: greenyellow;
+    width: 100px;
+    height: 30px;
     color: #fff;
     text-align: center;
     margin: auto;
